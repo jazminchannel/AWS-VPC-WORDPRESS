@@ -41,6 +41,7 @@ In this project I created a VPC for my 3 tier web architecture that hosts my wor
     - Private Route Table 
       * Add all private subnets as explicit subnet associations
       ![ebsapp](https://github.com/jazminchannel/AWS-VPC-WORDPRESS/blob/main/GetImage(3).png)
+ 
  13.Create NAT Gateway for both private subnets
      
       
