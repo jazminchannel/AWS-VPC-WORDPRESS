@@ -1,4 +1,4 @@
-# AWS-VPC
+# AWS-VPC-WORDPRESS
 In this project I created a VPC for my 3 tier web architecture that hosts my wordpress website servers, ALB's and Database.
 
  </a>
