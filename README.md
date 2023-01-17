@@ -35,10 +35,12 @@ In this project I created a VPC for my 3 tier web architecture that hosts my wor
 12.Edit Subnet Associations 
     - Public Route Table 
       * Add route – any IP that isn't local should go through Internet Gateway 
-      ![ebsapp](https://github.com/jazminchannel/images/blob/main/GetImage.png)
+      ![ebsapp](https://github.com/jazminchannel/AWS-VPC-WORDPRESS/blob/main/GetImage(1).png)
       * Add all public subnets as explicit subnet associations 
+      ![ebsapp](https://github.com/jazminchannel/AWS-VPC-WORDPRESS/blob/main/GetImage(2).png)
     - Private Route Table 
       * Add all private subnets as explicit subnet associations
+      ![ebsapp](https://github.com/jazminchannel/AWS-VPC-WORDPRESS/blob/main/GetImage(3).png)
  13.Create NAT Gateway for both private subnets
      
       
